@@ -93,11 +93,7 @@ A simple blog listing web application built with **Next.js** and **React Context
 
 ---
 
-## 📜 License
 
-This project is open-source and free to use under the [MIT License](LICENSE).
-
----
 
 ## 🌟 Show Your Support
 
